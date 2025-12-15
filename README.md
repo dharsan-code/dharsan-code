@@ -11,6 +11,7 @@ Frontend: HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React.js <br />
 Backend: Node.js | Express.js <br />
 Database: MongoDB | MySQL<br />
 Version Control: Git | GitHub <br />
+Operating System: Linux | Windows <br />
 
 <a href="https://www.linkedin.com/in/dharsan-b-121233233/" target="_blank">LinkedIn</a>  
 <a href="mailto:dharsan2226@gmail.com" target="_blank">Email Me</a> <br />
